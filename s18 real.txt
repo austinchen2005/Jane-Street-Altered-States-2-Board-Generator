@@ -1,0 +1,52 @@
+Helloos, world!
+test
+232617762
+GKLINEORADYNDMCIAOIHLSSET
+maxed at gen: 3618
+stopped at gen: 10854
+test
+244205369
+CKLIDGORANENMOCWISIHNAHET
+maxed at gen: 12325
+stopped at gen: 36975
+test
+233232879
+KLLIDAORANCGNMCSIOEKHAWRT
+maxed at gen: 5285
+stopped at gen: 15855
+test
+242867886
+MUCNDTHGAIRSIRLAENOYXWYAT
+maxed at gen: 8257
+stopped at gen: 24771
+test
+240003717
+KSSIMROYAOLGRNSIAIETNDCHU
+maxed at gen: 6207
+stopped at gen: 18621
+Helloos, world!
+test
+239975109
+LAWYCNIGOKSONRLAEMAITHCDN
+maxed at gen: 6893
+stopped at gen: 20679
+test
+236829897
+MALIDDORANANISCEWREHGOYUT
+maxed at gen: 10025
+stopped at gen: 30075
+test
+247469555
+VLWENAIOYGSNRMLTEIAIUHCDO
+maxed at gen: 18698
+stopped at gen: 56094
+test
+240990724
+LWEAWAIOTHSNGMCWORANYKLID
+maxed at gen: 9545
+stopped at gen: 28635
+test
+245046609
+ASIACYWNOKREGRLTSIAIUHCND
+maxed at gen: 8687
+stopped at gen: 26061

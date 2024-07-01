@@ -1,0 +1,6 @@
+Helloos, world!
+test
+236775361
+VDAKGWIRNEHSIOTICALYDMORE
+maxed at gen: 9602
+stopped at gen: 28806

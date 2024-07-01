@@ -1,0 +1,2529 @@
+Helloos, world!
+test
+249384275
+WIYWTNOSEALMRNSIAIGONDCHT
+maxed at gen: 3820
+stopped at gen: 11460
+test
+255499842
+WHCDNAGIASTNRLBOEYONJWCSI
+maxed at gen: 10770
+stopped at gen: 32310
+test
+244554188
+TASOTWENGHYSRICTOIADCNLNM
+maxed at gen: 1494
+stopped at gen: 4482
+test
+249833375
+SHCDKAGIASWNRNIUESOLTWYCA
+maxed at gen: 3418
+stopped at gen: 10254
+test
+255253829
+CMYWJNOAEOILRNTSAIGANDCHW
+maxed at gen: 4270
+stopped at gen: 12810
+test
+255499842
+NDCHWSAIGAMLRNTIOYEONSCWJ
+maxed at gen: 18695
+stopped at gen: 56085
+Helloos, world!
+Helloos, world!
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 1475
+stopped at gen: 4425
+test
+245197475
+CMJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 961
+stopped at gen: 2883
+Hello 2 da world!
+test
+247583663
+TNEATWENGHYSRICCONADALISK
+maxed at gen: 2652
+stopped at gen: 7956
+test
+245197475
+NSINMDALOCCIRYJHGNEWTAOST
+maxed at gen: 2264
+stopped at gen: 3000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 1158
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 40
+stopped at gen: 1000
+test
+233376585
+NSINMDALOCCIRSYHGNEWTOSAT
+maxed at gen: 9
+stopped at gen: 1000
+test
+245255798
+NWMNWDALOICIRSYHGNEWTOAST
+maxed at gen: 2768
+stopped at gen: 8304
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1617
+stopped at gen: 2000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 2173
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 19
+stopped at gen: 1000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 1124
+stopped at gen: 2000
+test
+250998697
+CFYWTLOSEALIRNSNAIGODMCHT
+maxed at gen: 2316
+stopped at gen: 6948
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 10
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 14
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 3
+stopped at gen: 1000
+test
+249833375
+ACYWTLOSEUNIRNWSAIGAKDCHS
+maxed at gen: 3512
+stopped at gen: 4000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 1396
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 27
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICMOLADCNISN
+maxed at gen: 1831
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 13
+stopped at gen: 1000
+test
+249882679
+VOTAWWENGHJYRICCOLADMNISN
+maxed at gen: 2537
+stopped at gen: 7611
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 1466
+stopped at gen: 4398
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 25
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1587
+stopped at gen: 4761
+test
+245197475
+NSINMDALOCCIRYJHGNEWTAOST
+maxed at gen: 726
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 401
+stopped at gen: 1203
+test
+245197475
+TSOATJENGHWYRICMOLADCNISN
+maxed at gen: 2174
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 31
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 14
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1926
+stopped at gen: 2000
+test
+247584964
+THCDKUGIASANRNITESOLSWYCA
+maxed at gen: 3537
+stopped at gen: 10611
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 653
+stopped at gen: 1959
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 819
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 39
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 39
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 3
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 49
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 644
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 3
+stopped at gen: 1000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 1391
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 6
+stopped at gen: 1000
+test
+233376585
+MCYWTNOSEAILRNSSAIGONDCHT
+maxed at gen: 15
+stopped at gen: 1000
+test
+244512715
+CMJWTNOYEWILRNASAIGONDCHT
+maxed at gen: 2082
+stopped at gen: 3000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 2278
+stopped at gen: 3000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 469
+stopped at gen: 1407
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 617
+stopped at gen: 1000
+test
+239553809
+XASOTWENGHJYRICCOLADMNISN
+maxed at gen: 1301
+stopped at gen: 2000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 454
+stopped at gen: 1000
+test
+245197475
+TSOATJENGHWYRICCOLADMNISN
+maxed at gen: 970
+stopped at gen: 1000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 725
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 10
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 562
+stopped at gen: 1000
+test
+233376585
+MCYWTNOSEAILRNSSAIGONDCHT
+maxed at gen: 26
+stopped at gen: 1000
+test
+245791248
+TSOATWENGHYSRICCONADALISK
+maxed at gen: 1278
+stopped at gen: 3834
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1509
+stopped at gen: 2000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 677
+stopped at gen: 1000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 444
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 391
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 23
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 585
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 43
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 5
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 596
+stopped at gen: 1000
+test
+250998697
+TASOTWENGHYSRICFOIAMCLLND
+maxed at gen: 1027
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 24
+stopped at gen: 1000
+test
+255514721
+MDLINDANOSCIRCYHGSEWUTANT
+maxed at gen: 8031
+stopped at gen: 24093
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1762
+stopped at gen: 2000
+test
+246093277
+JTOATWENGHYARICMOLADCNISN
+maxed at gen: 1582
+stopped at gen: 2000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 2461
+stopped at gen: 3000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1976
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 38
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 2085
+stopped at gen: 3000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 950
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 842
+stopped at gen: 1000
+test
+246093277
+CMYWTNOAEJILRNOSAIGANDCHT
+maxed at gen: 2173
+stopped at gen: 3000
+test
+245791248
+TVAUTWENGHYSRICCONADALISK
+maxed at gen: 2119
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 906
+stopped at gen: 1000
+test
+247583663
+TNEAUWENGHYSRICCONADALISK
+maxed at gen: 2210
+stopped at gen: 3000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 816
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 813
+stopped at gen: 1000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 526
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 396
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1158
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 29
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICMOLADCNISN
+maxed at gen: 532
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICMOLADCNISN
+maxed at gen: 1078
+stopped at gen: 2000
+test
+249882679
+NSINODALOCCIRYJHGNEWWATOV
+maxed at gen: 2201
+stopped at gen: 3000
+test
+245791248
+TSOATWENGHYSRICCONADALISK
+maxed at gen: 950
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 31
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 5
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 8
+stopped at gen: 1000
+test
+247584964
+STAUTWENGHYSRICCONADALISK
+maxed at gen: 3405
+stopped at gen: 4000
+test
+248180046
+TASOTWENGHYSRICCOLAMFLIDN
+maxed at gen: 1057
+stopped at gen: 3171
+test
+246093277
+CMYWJNOAETILRNOSAIGANDCHT
+maxed at gen: 2123
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 702
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 24
+stopped at gen: 1000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 862
+stopped at gen: 1000
+test
+245791248
+KSILADANOCCIRSYHGNEWTAOST
+maxed at gen: 2008
+stopped at gen: 3000
+test
+238335491
+TWAOTWENGHYSRICMOLADCNISN
+maxed at gen: 760
+stopped at gen: 1000
+test
+249384275
+WIYWTNOSEALMRNSIAIGONDCHT
+maxed at gen: 1672
+stopped at gen: 2000
+test
+248180046
+TASOTWENGHYSRICCOLAMFLIDN
+maxed at gen: 1984
+stopped at gen: 2000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1349
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 9
+stopped at gen: 1000
+test
+246460944
+NMCHTDAIGOFLRNSNOSEAWIYWT
+maxed at gen: 2255
+stopped at gen: 6765
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 14
+stopped at gen: 1000
+test
+245255798
+THCDNOGIAWANRLMSESONTWYIW
+maxed at gen: 6356
+stopped at gen: 7000
+test
+255499842
+JOTAWWENGHCYRICSOLADNIBNS
+maxed at gen: 5701
+stopped at gen: 6000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 1206
+stopped at gen: 2000
+test
+248277172
+TNLUTWEAGHYSRICCONADALISM
+maxed at gen: 1240
+stopped at gen: 3720
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 17
+stopped at gen: 1000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 1182
+stopped at gen: 2000
+test
+244512715
+TWAOTWENGHJYRICMOLADCNISN
+maxed at gen: 624
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 499
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICMOLADCNISN
+maxed at gen: 682
+stopped at gen: 1000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 1517
+stopped at gen: 2000
+test
+239553809
+CMJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 436
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 14
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 500
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 40
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 494
+stopped at gen: 1000
+test
+248180046
+TASOTWENGHYSRICFOLAMCLIDN
+maxed at gen: 1686
+stopped at gen: 2000
+test
+246093277
+CMYWJNOAETILRNOSAIGANDCHT
+maxed at gen: 5937
+stopped at gen: 6000
+test
+245684001
+TSOATWENGHYSRICIOLADWNMSN
+maxed at gen: 1754
+stopped at gen: 5262
+test
+238102715
+TASOTWENGHYSRICCOLADELIMN
+maxed at gen: 5
+stopped at gen: 1000
+test
+245197475
+CNISNMOLADJYRICWENGHTSOAT
+maxed at gen: 840
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 20
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 25
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 573
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 825
+stopped at gen: 1000
+test
+247583663
+THCDKAGIASNNRINEESOLTWYCA
+maxed at gen: 2588
+stopped at gen: 3000
+test
+244554188
+TASOTWENGHYSRICTOIADCLLNM
+maxed at gen: 1455
+stopped at gen: 2000
+test
+249946044
+EWNLCDAIOACIRSYHGNEWTOATU
+maxed at gen: 3736
+stopped at gen: 11208
+test
+248180046
+NDILFMALOCCIRSYHGNEWTOSAT
+maxed at gen: 944
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 717
+stopped at gen: 1000
+test
+239553809
+MNISNCOLADJYRICWENGHTASOT
+maxed at gen: 890
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 8
+stopped at gen: 1000
+test
+233376585
+MCYWTNOSEAILRNSSAIGONDCHT
+maxed at gen: 32
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 401
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1935
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 5
+stopped at gen: 1000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 2393
+stopped at gen: 3000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1881
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 595
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 505
+stopped at gen: 1000
+test
+238335491
+MCYWTNOSEWILRNASAIGONDCHT
+maxed at gen: 467
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1560
+stopped at gen: 2000
+test
+243844697
+TASOTWENGHYSRICCOIADMNLNM
+maxed at gen: 556
+stopped at gen: 1668
+test
+251560677
+ACYWVLOSEONIRNTSAIGAKDCHW
+maxed at gen: 5849
+stopped at gen: 17547
+test
+245197475
+NSINMDALOCCIRYJHGNEWTAOST
+maxed at gen: 2998
+stopped at gen: 3000
+test
+237936026
+TSOATWENGHYSRICCOLADENISN
+maxed at gen: 14
+stopped at gen: 1000
+test
+247425165
+THCMTOGIANSNRLDAESOFTWYIN
+maxed at gen: 6986
+stopped at gen: 20958
+test
+245791248
+ACYWALOSETNIRNASAIGUKDCHT
+maxed at gen: 1858
+stopped at gen: 2000
+test
+247583663
+ACYWTLOSENINRNESAIGAKDCHT
+maxed at gen: 1827
+stopped at gen: 2000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1356
+stopped at gen: 2000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 970
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 2262
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 406
+stopped at gen: 1000
+test
+239020251
+NSINMDALOCCIRSYHGNEWTAOST
+maxed at gen: 559
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 403
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1302
+stopped at gen: 2000
+test
+233376585
+XASOTWENGHYSRICCOLADMNISN
+maxed at gen: 17
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 30
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 2443
+stopped at gen: 3000
+test
+239020251
+NSINMDALOCCIRSYHGNEWTAOST
+maxed at gen: 1053
+stopped at gen: 2000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 798
+stopped at gen: 1000
+test
+246093277
+CMYWTNOAEJILRNOSAIGANDCHT
+maxed at gen: 1812
+stopped at gen: 2000
+test
+247583663
+TNEATWENGHYSRICCONADALISK
+maxed at gen: 1858
+stopped at gen: 2000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 1425
+stopped at gen: 2000
+test
+255499842
+JOTAWWENGHCYRICSOLADINBSN
+maxed at gen: 3558
+stopped at gen: 4000
+test
+242760472
+TASOTWENGHYSRICCOLADUILMN
+maxed at gen: 428
+stopped at gen: 1284
+test
+255499842
+MSNICDALOSCIRYIHGNEWWATOJ
+maxed at gen: 12831
+stopped at gen: 13000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 9
+stopped at gen: 1000
+test
+245197475
+NSINMDALOCCIRYJHGNEWTAOST
+maxed at gen: 947
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 466
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 736
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 43
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 4
+stopped at gen: 1000
+test
+245868995
+TASOTWENGHCYRICSOMADINLIN
+maxed at gen: 1848
+stopped at gen: 5544
+test
+245791248
+TSOATWENGHYSRICCONADALISK
+maxed at gen: 1324
+stopped at gen: 2000
+test
+238335491
+MCYWTNOSEWILRNASAIGONDCHT
+maxed at gen: 752
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 30
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 611
+stopped at gen: 1000
+test
+249384275
+WIYWTNOSEALMRNSIAIGONDCHT
+maxed at gen: 2856
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 743
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 8
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 23
+stopped at gen: 1000
+test
+233376585
+MCYWTNOSEAILRNSSAIGONDCHT
+maxed at gen: 31
+stopped at gen: 1000
+test
+246460944
+TASOTWENGHYSRICIOLAMWNFDN
+maxed at gen: 2485
+stopped at gen: 3000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 477
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 31
+stopped at gen: 1000
+test
+246093277
+CNISNMOLADYARICWENGHTJOAT
+maxed at gen: 2268
+stopped at gen: 3000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 588
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 476
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 37
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 720
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 639
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 2964
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 4
+stopped at gen: 1000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 579
+stopped at gen: 1000
+test
+255499842
+ISYWJNOCEOMLRNTSAIGANDCHW
+maxed at gen: 3707
+stopped at gen: 4000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 4
+stopped at gen: 1000
+test
+240079050
+FCJWUNOYETILRNASAIGONDCHK
+maxed at gen: 1397
+stopped at gen: 4191
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 622
+stopped at gen: 1000
+test
+249946044
+UTAOTWENGHYSRICAOIADCLNWL
+maxed at gen: 3998
+stopped at gen: 4000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 739
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 677
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 656
+stopped at gen: 1000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 1812
+stopped at gen: 2000
+test
+242760472
+TASOTWENGHYSRICCOLADUILMN
+maxed at gen: 999
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 582
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 970
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 4
+stopped at gen: 1000
+test
+245255798
+WIYWTNOSESMLRNAWAIGONDCHT
+maxed at gen: 2420
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 1177
+stopped at gen: 2000
+test
+243844697
+TASOTWENGHYSRICCOIADMNLNM
+maxed at gen: 595
+stopped at gen: 1000
+test
+240079050
+TAOATWENGHJYRICCOLADMNISN
+maxed at gen: 1840
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 582
+stopped at gen: 1000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 542
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 614
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 600
+stopped at gen: 1000
+test
+239553809
+NDCHTSAIGOILRNSNOYEAMCJWT
+maxed at gen: 845
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 18
+stopped at gen: 1000
+test
+247584964
+ACYWSLOSETINRNASAIGUKDCHT
+maxed at gen: 2340
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 469
+stopped at gen: 1000
+test
+245255798
+WIYWTNOSESMLRNAWAIGONDCHT
+maxed at gen: 1557
+stopped at gen: 2000
+test
+245791248
+ACYWTLOSESINRNOSAIGAKDCHT
+maxed at gen: 1604
+stopped at gen: 2000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 654
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 17
+stopped at gen: 1000
+test
+233376585
+MNISNCOLADYSRICWENGHTASOT
+maxed at gen: 8
+stopped at gen: 1000
+test
+242760472
+TASOTWENGHYSRICCOIADENLNM
+maxed at gen: 785
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 25
+stopped at gen: 1000
+test
+247584964
+KSILADANOCCIRSYHGNEWTUATS
+maxed at gen: 2800
+stopped at gen: 3000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 828
+stopped at gen: 1000
+test
+245255798
+WIYWTNOSESMLRNAWAIGONDCHT
+maxed at gen: 4583
+stopped at gen: 5000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 2506
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 47
+stopped at gen: 1000
+test
+248180046
+TASOTWENGHYSRICFOLAMCLIDN
+maxed at gen: 855
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 7
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 695
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 38
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 828
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 21
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 9
+stopped at gen: 1000
+test
+243844697
+MCYWTNOSEALIRNSNAIGOMDCHT
+maxed at gen: 830
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 462
+stopped at gen: 1000
+test
+245791248
+TWYCAEESOLANRNIUGIASTHCDK
+maxed at gen: 1620
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICMOLADCNISN
+maxed at gen: 8
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICMOLADCNISN
+maxed at gen: 22
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 34
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 405
+stopped at gen: 1000
+test
+239553809
+NSINMDALOCCIRYJHGNEWTOSAT
+maxed at gen: 914
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 19
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 39
+stopped at gen: 1000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 1042
+stopped at gen: 2000
+test
+245791248
+KSILADANOCCIRSYHGNEWTAOST
+maxed at gen: 1788
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 16
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 6
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1000
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 12
+stopped at gen: 1000
+test
+244512715
+CMJWTNOYEWILRNASAIGONDCHT
+maxed at gen: 1682
+stopped at gen: 2000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 527
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 12
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1738
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 540
+stopped at gen: 1000
+test
+239553809
+XASOTWENGHJYRICCOLADMNISN
+maxed at gen: 695
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 40
+stopped at gen: 1000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 1072
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 37
+stopped at gen: 1000
+test
+252777934
+NSYWTIOSENMLRNSOAIGANDCHT
+maxed at gen: 2640
+stopped at gen: 7920
+test
+240079050
+TOOATWENGHJYRICCOLADMNISN
+maxed at gen: 980
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 3
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 795
+stopped at gen: 1000
+test
+245791248
+TSOATWENGHYSRICCONADALISK
+maxed at gen: 1502
+stopped at gen: 2000
+test
+238102715
+TASOTWENGHYSRICCOLADMLIMN
+maxed at gen: 525
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 43
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICMOLADCNISN
+maxed at gen: 746
+stopped at gen: 1000
+test
+238102715
+TASOTWENGHYSRICCOLADRLIMN
+maxed at gen: 429
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 772
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 778
+stopped at gen: 1000
+test
+245791248
+TSOATWENGHYSRICCONADALISK
+maxed at gen: 1032
+stopped at gen: 2000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 937
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 32
+stopped at gen: 1000
+test
+233376585
+MNISNCOLADYSRICWENGHTASOT
+maxed at gen: 8
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 49
+stopped at gen: 1000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 3909
+stopped at gen: 4000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1838
+stopped at gen: 2000
+test
+244512715
+TWAOTWENGHJYRICMOLADCNISN
+maxed at gen: 1341
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 405
+stopped at gen: 1000
+test
+239553809
+MNISNCOLADJYRICWENGHTASOT
+maxed at gen: 595
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 5
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 28
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 816
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 14
+stopped at gen: 1000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 1492
+stopped at gen: 2000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 878
+stopped at gen: 1000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 2145
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 10
+stopped at gen: 1000
+test
+249946044
+UTAOTWENGHYSRICAOIADCLNWL
+maxed at gen: 3363
+stopped at gen: 4000
+test
+252837803
+TASOTWENGHYSRICCOIAMANLDN
+maxed at gen: 726
+stopped at gen: 2178
+test
+239020251
+NDCHTSAIGAILRNONOSESMCYWT
+maxed at gen: 964
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1288
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 23
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 458
+stopped at gen: 1000
+test
+246093277
+NSINCDALOMCIRAYHGNEWTAOTJ
+maxed at gen: 2974
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 14
+stopped at gen: 1000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 397
+stopped at gen: 1000
+test
+240079050
+UTAOTJENGHWYRICCOLADUNISN
+maxed at gen: 752
+stopped at gen: 1000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 650
+stopped at gen: 1000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 902
+stopped at gen: 1000
+test
+246093277
+JTOATWENGHYARICMOLADCNISN
+maxed at gen: 2705
+stopped at gen: 3000
+test
+239553809
+MNISNCOLADJYRICWENGHTASOT
+maxed at gen: 760
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 10
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 408
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 718
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 9
+stopped at gen: 1000
+test
+239553809
+THCDNOGIASSNRLIAEYONTWJCM
+maxed at gen: 961
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 31
+stopped at gen: 1000
+test
+247583663
+TENATWENGHYSRICCOIADALNSK
+maxed at gen: 1745
+stopped at gen: 2000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 781
+stopped at gen: 1000
+test
+252837803
+TASOTWENGHYSRICCOIAMANLDN
+maxed at gen: 732
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 343
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 870
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 930
+stopped at gen: 1000
+test
+248277172
+ACYWTLOSENINRAMSAIGULDCHT
+maxed at gen: 2004
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 528
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 788
+stopped at gen: 1000
+test
+242760472
+XCYWTLOSEALIRNSNAIGOMDCHT
+maxed at gen: 1679
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 20
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 12
+stopped at gen: 1000
+test
+249833375
+TUWASWENGHYSRICCONADALISK
+maxed at gen: 2140
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 26
+stopped at gen: 1000
+test
+245197475
+NSINMDALOCCIRYJHGNEWTAOST
+maxed at gen: 2402
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 6
+stopped at gen: 1000
+test
+247583663
+TENATWENGHYSRICCONADALISK
+maxed at gen: 2284
+stopped at gen: 3000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 894
+stopped at gen: 1000
+test
+247584964
+STAUTWENGHYSRICCONADALISK
+maxed at gen: 2645
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 978
+stopped at gen: 1000
+test
+245791248
+TWAUTWENGHYSRICCONADALISK
+maxed at gen: 1917
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 35
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1843
+stopped at gen: 2000
+test
+246460944
+TASOTWENGHYSRICIOLAMNWFDN
+maxed at gen: 2217
+stopped at gen: 3000
+test
+238102715
+TASOTWENGHYSRICCOLADCLINM
+maxed at gen: 539
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 686
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 40
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 764
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 31
+stopped at gen: 1000
+test
+239020251
+NSINMDALOCCIRSYHGNEWTAOST
+maxed at gen: 931
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 21
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 798
+stopped at gen: 1000
+test
+246093277
+CMYWTNOAEJILRNOSAIGANDCHT
+maxed at gen: 2510
+stopped at gen: 3000
+test
+249882679
+VOTAWWENGHJYRICCOLADTNISN
+maxed at gen: 3592
+stopped at gen: 4000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 9
+stopped at gen: 1000
+test
+238335491
+MCYWTNOSEWILRNASAIGONDCHT
+maxed at gen: 727
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1589
+stopped at gen: 2000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 517
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 11
+stopped at gen: 1000
+test
+242760472
+TASOTWENGHYSRICCOIADFNLNM
+maxed at gen: 984
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 8
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 16
+stopped at gen: 1000
+test
+249384275
+TASOTWENGHYSRICIOMADWNLIN
+maxed at gen: 2032
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 21
+stopped at gen: 1000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 666
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 639
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 30
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 1157
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 750
+stopped at gen: 1000
+test
+242760472
+TASOTWENGHYSRICCOIADELLNM
+maxed at gen: 438
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 987
+stopped at gen: 1000
+test
+248180046
+TASOTWENGHYSRICFOLAMCLIDN
+maxed at gen: 2482
+stopped at gen: 3000
+test
+245791248
+ACYWTLOSESINRNASAIGUKDCHT
+maxed at gen: 2166
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 710
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 804
+stopped at gen: 1000
+test
+238102715
+TASOTWENGHYSRICCOLADELIMN
+maxed at gen: 591
+stopped at gen: 1000
+test
+242760472
+TASOTWENGHYSRICCOIADANLMN
+maxed at gen: 480
+stopped at gen: 1000
+test
+251560677
+VOTAWWENGHYSRICCONADALISK
+maxed at gen: 3268
+stopped at gen: 4000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 403
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 647
+stopped at gen: 1000
+test
+249137529
+MNLLCDAIOACIRSYHGNEWTAOST
+maxed at gen: 5005
+stopped at gen: 15015
+test
+240079050
+MCWJTNOYEAILRNOSAIGANDCHT
+maxed at gen: 706
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 32
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 507
+stopped at gen: 1000
+test
+234245481
+TASOTWENGHYFRICCOLAMMNISN
+maxed at gen: 536
+stopped at gen: 1608
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 844
+stopped at gen: 1000
+test
+248277172
+TNLUTWEAGHYSRICCONADALISM
+maxed at gen: 1311
+stopped at gen: 2000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 864
+stopped at gen: 1000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 1168
+stopped at gen: 2000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 1344
+stopped at gen: 2000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 548
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 27
+stopped at gen: 1000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 907
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 10
+stopped at gen: 1000
+test
+249212653
+UTAOTWENGHYSRICAOIADCNLWN
+maxed at gen: 2396
+stopped at gen: 7188
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 16
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 31
+stopped at gen: 1000
+test
+239553809
+MCJWTNOYEAILRNSSAIGONDCHT
+maxed at gen: 562
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 18
+stopped at gen: 1000
+test
+245791248
+KSILADANOCCIRSYHGNEWTAOST
+maxed at gen: 1664
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 642
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 6
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 726
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1649
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 1367
+stopped at gen: 2000
+test
+244512715
+TWAOTWENGHJYRICCOLADMNISN
+maxed at gen: 816
+stopped at gen: 1000
+test
+251357124
+MWJICOEYONTNRLIAGIASWHCDN
+maxed at gen: 3761
+stopped at gen: 11283
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 454
+stopped at gen: 1000
+test
+238102715
+TASOTWENGHYSRICCOLADELIMN
+maxed at gen: 661
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 22
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 31
+stopped at gen: 1000
+test
+245791248
+ACYWTLOSENINRNASAIGUKDCHT
+maxed at gen: 1589
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 614
+stopped at gen: 1000
+test
+245791248
+TINUTWEMGHYSRICCONADALISK
+maxed at gen: 1864
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 11
+stopped at gen: 1000
+test
+238335491
+MCYWTNOSEWILRNASAIGONDCHT
+maxed at gen: 807
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 46
+stopped at gen: 1000
+test
+244554188
+MNLLCDAIOTCIRSYHGNEWTOSAT
+maxed at gen: 1086
+stopped at gen: 2000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 19
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 3285
+stopped at gen: 4000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 468
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 16
+stopped at gen: 1000
+test
+255499842
+NSMNIDALOSCIRYCHGNEWWATOJ
+maxed at gen: 4890
+stopped at gen: 5000
+test
+239020251
+MCYWTNOSESILRNOSAIGANDCHT
+maxed at gen: 525
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 6
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 32
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 17
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 497
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 35
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 39
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 32
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 46
+stopped at gen: 1000
+test
+242760472
+ECYWTLOSEALIRNSNAIGOMDCHT
+maxed at gen: 656
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 594
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 2748
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 640
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 24
+stopped at gen: 1000
+test
+237251266
+TWAOTWENGHYSRICCOLADENISN
+maxed at gen: 49
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 4
+stopped at gen: 1000
+test
+237936026
+TSOATWENGHYSRICCOLADONISN
+maxed at gen: 724
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 721
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 644
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 35
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 440
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICMOLADCNISN
+maxed at gen: 1454
+stopped at gen: 2000
+test
+242760472
+TASOTWENGHYSRICCOIADELLNM
+maxed at gen: 874
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 832
+stopped at gen: 1000
+test
+245791248
+ACYWTLOSESINRNOSAIGAKDCHT
+maxed at gen: 1851
+stopped at gen: 2000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 519
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 44
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 768
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 29
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 429
+stopped at gen: 1000
+test
+244512715
+JTWMCWEYONANRLIOGIASTHCDN
+maxed at gen: 1919
+stopped at gen: 2000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 662
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 544
+stopped at gen: 1000
+test
+245791248
+ACYWTLOSESINRNOSAIGAKDCHT
+maxed at gen: 2122
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 3
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICCOLADMNISN
+maxed at gen: 1330
+stopped at gen: 2000
+test
+245791248
+TSOATWENGHYSRICCONADALISK
+maxed at gen: 1124
+stopped at gen: 2000
+test
+248277172
+ALISLCONADYSRICWEAGHTNMUT
+maxed at gen: 2442
+stopped at gen: 3000
+test
+248180046
+TASOTWENGHYSRICCOLAMFLIDN
+maxed at gen: 771
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 495
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 524
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 552
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 620
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 502
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1460
+stopped at gen: 2000
+test
+245197475
+MCJWTNOYESILRNOSAIGANDCHT
+maxed at gen: 2803
+stopped at gen: 3000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 966
+stopped at gen: 1000
+test
+245197475
+TSOATWENGHJYRICMOLADCNISN
+maxed at gen: 2060
+stopped at gen: 3000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 61
+stopped at gen: 1000
+test
+246093277
+TJOATWENGHYARICMOLADCNISN
+maxed at gen: 1196
+stopped at gen: 2000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 600
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 21
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 572
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 16
+stopped at gen: 1000
+test
+245791248
+TSOATWENGHYSRICCONADALISK
+maxed at gen: 1885
+stopped at gen: 2000
+test
+239553809
+XASOTWENGHJYRICCOLADMNISN
+maxed at gen: 2241
+stopped at gen: 3000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 449
+stopped at gen: 1000
+test
+249946044
+UTAOTWENGHYSRICAOIADCLNWL
+maxed at gen: 2344
+stopped at gen: 3000
+test
+245791248
+TSOATWENGHYSRICCOIADALNSK
+maxed at gen: 1339
+stopped at gen: 2000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 702
+stopped at gen: 1000
+test
+245080658
+TASOTWENGHYSRICIOLADWNMON
+maxed at gen: 1244
+stopped at gen: 3732
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 8
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 570
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 514
+stopped at gen: 1000
+test
+238335491
+TWAOTWENGHYSRICCOLADMNISN
+maxed at gen: 542
+stopped at gen: 1000
+test
+248277172
+TNMUTWEAGHYSRICCONADALISL
+maxed at gen: 2409
+stopped at gen: 3000
+test
+248277172
+ACYWTLOSENINRALSAIGUMDCHT
+maxed at gen: 1990
+stopped at gen: 2000
+test
+247584964
+STAUTWENGHYSRICCONADALISK
+maxed at gen: 1972
+stopped at gen: 2000
+test
+238102715
+TASOTWENGHYSRICCOLADMLINM
+maxed at gen: 621
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 666
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 41
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 386
+stopped at gen: 1000
+test
+238102715
+TASOTWENGHYSRICCOLADELIMN
+maxed at gen: 516
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 44
+stopped at gen: 1000
+test
+239020251
+TSOATWENGHYSRICCOLADMNISN
+maxed at gen: 404
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICMOLADCNISN
+maxed at gen: 645
+stopped at gen: 1000
+test
+233376585
+TASOTWENGHYSRICCOLADMNISN
+maxed at gen: 9
+stopped at gen: 1000
+test
+239553809
+TASOTWENGHJYRICCOLADMNISN
+maxed at gen: 438
+stopped at gen: 1000

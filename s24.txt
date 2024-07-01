@@ -1,0 +1,82 @@
+Hello 2 da world!
+Hello 2 da world!
+test
+246342807
+ANSLDGIOAIRHCRNOATEKMKYWJ
+maxed at gen: 1362
+stopped at gen: 4086
+test
+246342807
+JWYMLKETAONRCHRIAOIGDLSNA
+maxed at gen: 762
+stopped at gen: 1000
+test
+246342807
+JWYKMKETAONRCHRIAOIGDLSNA
+maxed at gen: 888
+stopped at gen: 1000
+test
+246342807
+JWYLMKETAONRCHRIAOIGDLSNA
+maxed at gen: 990
+stopped at gen: 1000
+test
+246342807
+JWYKMKETAONRCHRIAOIGDLSNA
+maxed at gen: 2337
+stopped at gen: 3000
+test
+246342807
+DINKJLAREWSOCTYNIHAKAGROM
+maxed at gen: 1361
+stopped at gen: 2000
+test
+246342807
+JWYMLKETAONRCHRIAOIGDLSNA
+maxed at gen: 2089
+stopped at gen: 3000
+test
+246342807
+JWYMKKETAONRCHRIAOIGDLSNA
+maxed at gen: 1312
+stopped at gen: 2000
+test
+246342807
+JWYKMKETAONRCHRIAOIGDLSNA
+maxed at gen: 1174
+stopped at gen: 2000
+test
+242383454
+JWYGEKETAMNRCHRIAOIGDLSNA
+maxed at gen: 448
+stopped at gen: 1344
+test
+246342807
+JWYKMKETAONRCHRIAOIGDLSNA
+maxed at gen: 1736
+stopped at gen: 2000
+test
+242383454
+JWYMEKETAGNRCHRIAOIGDLSNA
+maxed at gen: 985
+stopped at gen: 1000
+test
+242383454
+JWYGEKETAMNRCHRIAOIGDLSNA
+maxed at gen: 577
+stopped at gen: 1000
+test
+242383454
+JWYGMKETAENRCHRIAOIGDLSNA
+maxed at gen: 893
+stopped at gen: 1000
+test
+246342807
+JWYLMKETAONRCHRIAOIGDLSNA
+maxed at gen: 1258
+stopped at gen: 2000
+test
+242383454
+DINKJLAREWSOCTYNIHAGAGRME
+maxed at gen: 690
+stopped at gen: 1000

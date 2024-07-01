@@ -1,0 +1,186 @@
+Helloos, world!
+test
+231209418
+LACHNIORIASNYGDAEWAHXJMTB
+maxed at gen: 2946
+stopped at gen: 8838
+test
+232912017
+ENSILJENOATWYRCNAGIASODNM
+maxed at gen: 15726
+stopped at gen: 47178
+test
+247260613
+KODANRTGIHWEURCMINOALASIL
+maxed at gen: 21383
+stopped at gen: 64149
+test
+239433199
+WDANOHIGIRCRYESAONWTLISAH
+maxed at gen: 9099
+stopped at gen: 27297
+test
+233230617
+XASILJENOAAWYRCSIGIHHNADW
+maxed at gen: 4282
+stopped at gen: 12846
+test
+233831520
+WHCALAIROIDGYNSIAWEANLMJT
+maxed at gen: 13419
+stopped at gen: 40257
+test
+239433199
+LACHWIORIDSNYGAAWEINHTSRO
+maxed at gen: 8333
+stopped at gen: 24999
+test
+247260613
+LMWTOAIERKSNUGDIORIALACHN
+maxed at gen: 11114
+stopped at gen: 33342
+test
+247667553
+IASILWSNOAKEURCWTGIHYONAD
+maxed at gen: 24027
+stopped at gen: 72081
+test
+231271577
+LJTHNAEWAISNYGDIORINLACHW
+maxed at gen: 5605
+stopped at gen: 16815
+test
+231601698
+LACHMIORIDSNYGAAEWINTJROS
+maxed at gen: 4427
+stopped at gen: 13281
+test
+239433199
+HASILTWNOASEYRCRIGIHONADW
+maxed at gen: 9308
+stopped at gen: 27924
+test
+250420421
+NADUOHIGYRCRWESAONSEMLIAT
+maxed at gen: 30337
+stopped at gen: 91011
+test
+239433199
+ORSTHNIEWAAGYNSDIROIWHCAL
+maxed at gen: 3660
+stopped at gen: 10980
+test
+239433199
+WDANOHIGIRCRYESAONWTLISAH
+maxed at gen: 10466
+stopped at gen: 31398
+test
+231461455
+HNTJLOAWEADGYNSNIROIMACAL
+maxed at gen: 5659
+stopped at gen: 16977
+test
+234369248
+LACHAIORIDSNYGNAEWAOTJMRL
+maxed at gen: 8960
+stopped at gen: 26880
+test
+232772173
+LACHNIORIASNYGDAWEETHTJSS
+maxed at gen: 1840
+stopped at gen: 5520
+test
+233831520
+NLMJTIAWEADGYNSAIROIWHCAL
+maxed at gen: 9226
+stopped at gen: 27678
+test
+229825287
+LASILJENOATWYRCLAGIHHBDAN
+maxed at gen: 2178
+stopped at gen: 6534
+test
+233831520
+LISAXAONEJCRYWMHIGABAWDIN
+maxed at gen: 5083
+stopped at gen: 15249
+test
+231601698
+SORJTNIWEAAGYNSDIROINHCAL
+maxed at gen: 4340
+stopped at gen: 13020
+test
+231601698
+XASILJENOARWYRCOIGIHSNADH
+maxed at gen: 1956
+stopped at gen: 5868
+test
+233831520
+LACHWIORIASNYGDAEWAITJMBN
+maxed at gen: 11218
+stopped at gen: 33654
+test
+228506064
+LACHNIORIASNYGDAEWSUDJTIB
+maxed at gen: 1028
+stopped at gen: 3084
+test
+237615732
+LACHNIORIASNUGDAEWAETJYOR
+maxed at gen: 8679
+stopped at gen: 26037
+test
+234369248
+LACHAIORIDSNYGNAEWAOTJMYL
+maxed at gen: 10257
+stopped at gen: 30771
+test
+239433199
+ORSTHNIEWAAGYNSDIROIWHCAL
+maxed at gen: 4750
+stopped at gen: 14250
+test
+233230617
+XASILJENOAAWYRCSIGIHHNADW
+maxed at gen: 2675
+stopped at gen: 8025
+test
+231601698
+TASILJENOAGWYRCOIGIHSNADR
+maxed at gen: 1408
+stopped at gen: 4224
+test
+239433199
+WDANOHIGIRCRYESAONWTLISAH
+maxed at gen: 10405
+stopped at gen: 31215
+test
+234369248
+XASILJENOAMWYRCRAGIHLONDA
+maxed at gen: 7187
+stopped at gen: 21561
+test
+239433199
+WDANOHIGIRCRYESAONWTLISAH
+maxed at gen: 8638
+stopped at gen: 25914
+test
+234619092
+LACHWIORIASNYGDAWEIAHTJSN
+maxed at gen: 4818
+stopped at gen: 14454
+test
+238161062
+LACTOIORGNSNYIDAEWAHLJTBL
+maxed at gen: 4776
+stopped at gen: 14328
+test
+247260613
+NADKOHIGTRCRUEWAONIMLISAL
+maxed at gen: 101045
+stopped at gen: 303135
+test
+234369248
+LISAXAONEJCRYWMHIGARADNOL
+maxed at gen: 13466
+stopped at gen: 40398

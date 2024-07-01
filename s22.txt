@@ -1,0 +1,37 @@
+Hello 2 da world!
+test
+234438393
+CSAMASONOYLIREWDAGTJNCHIM
+maxed at gen: 45
+stopped at gen: 1000
+test
+235171784
+CSALMSONOYLIREWDAGTJNCHIM
+maxed at gen: 726
+stopped at gen: 2178
+Hello 2 da world!
+test
+234438393
+CSAMASONOYLIREWDAGTJNCHIM
+maxed at gen: 33
+stopped at gen: 1000
+test
+249032314
+CSATUSONKYLIREWDAGTJNMCIM
+maxed at gen: 3686
+stopped at gen: 11058
+test
+249032314
+CSATUSONKYLIREWDAGTJNCMIH
+maxed at gen: 2440
+stopped at gen: 3000
+test
+249032314
+CSATUSONKYLIREWDAGTJNMCIM
+maxed at gen: 6042
+stopped at gen: 7000
+test
+246992040
+CASIMSONOYLIREWDAGTJNMCIM
+maxed at gen: 5371
+stopped at gen: 16113

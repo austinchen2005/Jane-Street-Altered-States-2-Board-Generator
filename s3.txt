@@ -1,0 +1,191 @@
+Helloos, world!
+test
+230534006
+MVBCOFLASNLGINPDORETNAYWJ
+maxed at gen: 6834
+stopped at gen: 20502
+test
+221661204
+JWYADTEROIPNILNNSAVFOCBNO
+maxed at gen: 1214
+stopped at gen: 3642
+test
+218077981
+PWYAHJEROCTNILNNSAVFOICNO
+maxed at gen: 581
+stopped at gen: 1743
+test
+218077981
+JWYAHTEROCPNILNNSAVFOICNO
+maxed at gen: 469
+stopped at gen: 1407
+test
+221661204
+JWYAIPERONTNILCNSAVFOCMDI
+maxed at gen: 4672
+stopped at gen: 14016
+test
+224275410
+OMWCIFVASONLINTHOREGCAYWJ
+maxed at gen: 1472
+stopped at gen: 4416
+test
+223594129
+HCNFIAOLMCYRIAGWENSIJTCOS
+maxed at gen: 4457
+stopped at gen: 13371
+test
+221661204
+ONPJTCSNEWMAIRYNVLOAOFNID
+maxed at gen: 1595
+stopped at gen: 4785
+test
+230534006
+IVMCOFLASNLGINTNOREPDAYWJ
+maxed at gen: 6145
+stopped at gen: 18435
+test
+238480597
+JWYADTEROISNIGLOSALFMCIMN
+maxed at gen: 5814
+stopped at gen: 17442
+test
+241779880
+YMICSFLASOLGINDIOREJDAYWT
+maxed at gen: 24043
+stopped at gen: 72129
+test
+221661204
+ANPTJOSNEWCAIRYMVLOANFNID
+maxed at gen: 2083
+stopped at gen: 6249
+test
+241779880
+SOTDJCSNEWIAIRYMLGOAYFLID
+maxed at gen: 22967
+stopped at gen: 68901
+test
+218077981
+JWYAHTEROCPNILNNSAVFOICNO
+maxed at gen: 413
+stopped at gen: 1239
+test
+223093714
+DNIFUAOLVBYRIAHWENSCTJPNO
+maxed at gen: 1905
+stopped at gen: 5715
+test
+241779880
+JDTOSWENSCYRIAIAOGLMDILFY
+maxed at gen: 10081
+stopped at gen: 30243
+test
+221661204
+JWYADPEROITNILNNSAVFOCMNO
+maxed at gen: 1248
+stopped at gen: 3744
+test
+223093714
+ONPJTCSNEWBAIRYHVLOAUFLDN
+maxed at gen: 2332
+stopped at gen: 6996
+test
+226153430
+TKWACPEROHNNILNOSAVFICEEN
+maxed at gen: 11722
+stopped at gen: 35166
+test
+221661204
+OFNIDNVLOAMAIRYCSNEWONTPJ
+maxed at gen: 900
+stopped at gen: 2700
+test
+230534006
+YVBCOFLASNLGINTDOREPNAYWJ
+maxed at gen: 5502
+stopped at gen: 16506
+test
+221661204
+ONPJTCSNEWMAIRYNVLOAOFNID
+maxed at gen: 951
+stopped at gen: 2853
+test
+230534006
+PFLDNBLGOAYAIRYCSNEWONTJP
+maxed at gen: 7274
+stopped at gen: 21822
+test
+221661204
+JWYADTEROIPNILNNSAVFOCBNO
+maxed at gen: 1307
+stopped at gen: 3921
+test
+230534006
+ONPTJCSNEWVAIRYMLGOAOFLND
+maxed at gen: 4094
+stopped at gen: 12282
+test
+221661204
+OCBNONSAVFPNILNTEROIJWYAD
+maxed at gen: 1036
+stopped at gen: 3108
+test
+223093714
+TWYADJERONPNILINSAVFOCBHU
+maxed at gen: 2043
+stopped at gen: 6129
+test
+223093714
+JWYADPERONTNILINSAVFOCMHU
+maxed at gen: 3794
+stopped at gen: 11382
+test
+221661204
+ONTPJCSNEWMAIRYNVLOAOFNID
+maxed at gen: 1313
+stopped at gen: 3939
+test
+221661204
+ONPTJCSNEWMAIRYNVLOAOFNID
+maxed at gen: 843
+stopped at gen: 2529
+test
+223093714
+TWYADJERONPNILINSAVFOCHBU
+maxed at gen: 2859
+stopped at gen: 8577
+test
+224433871
+UMHCIFVASONLINPHORENCAWKT
+maxed at gen: 4801
+stopped at gen: 14403
+test
+219313942
+OWPJTINNEWSAIRYCVLOAOFNCH
+maxed at gen: 972
+stopped at gen: 2916
+test
+218077981
+JWYAHTEROCPNILNNSAVFOICNO
+maxed at gen: 245
+stopped at gen: 1001
+test
+223093714
+UHBCOFVASNILINPNOREJDAYWT
+maxed at gen: 3297
+stopped at gen: 9891
+test
+236313193
+TCIMWESALFENIGLNWRONJEYAD
+maxed at gen: 9610
+stopped at gen: 28830
+test
+226153430
+TKWAHNEROCPNILNOSAVFICEEN
+maxed at gen: 3740
+stopped at gen: 11220
+test
+230534006
+ONTPJCSNEWBAIRYVLGOACFLND
+maxed at gen: 1908
+stopped at gen: 5724

@@ -1,0 +1,32 @@
+Helloos, world!
+test
+230572733
+UGRTHCHSEWSANIYDIROGIGLAC
+maxed at gen: 402
+stopped at gen: 1206
+test
+231453902
+UTHRTCHSEWDANIYSIROVIGLAC
+maxed at gen: 407
+stopped at gen: 1221
+test
+235022910
+GUTRHCHSEWDANIYMIROCSGLAV
+maxed at gen: 501
+stopped at gen: 1503
+test
+234684465
+TURHTHCSEWSANIYDIROBIGLAC
+maxed at gen: 515
+stopped at gen: 1545
+test
+228779017
+UGRHTCHSEWSANIYDIROGIGLAC
+maxed at gen: 401
+stopped at gen: 1203
+test
+235691158
+UORTHCHSEWSANIYDIROCIGLAV
+maxed at gen: 515
+stopped at gen: 1545
+Helloos, world!

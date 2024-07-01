@@ -1,0 +1,227 @@
+Helloos, world!
+Helloos, world!
+Helloos, world!
+Helloos, world!
+Helloos, world!
+Helloos, world!
+Helloos, world!
+test
+189179005
+TRSAIHEOWICIYNEDAROGNILYC
+maxed at gen: 809
+stopped at gen: 2427
+test
+186859147
+TRSAKHEOWICIYNEDAROANILAM
+maxed at gen: 3101
+stopped at gen: 9303
+test
+190294546
+TRSALHEOWICIYNEDAROGNMLTF
+maxed at gen: 3065
+stopped at gen: 9195
+Helloos, world!
+test
+197992604
+TRSALHEOWICIYNESAROGNMLFQ
+maxed at gen: 1987
+stopped at gen: 5961
+test
+192356405
+TRSADHEOWICOYNEDAROGNILTQ
+maxed at gen: 5251
+stopped at gen: 15753
+test
+188058524
+TRSAQHEOWICMYNEDAROGNILIQ
+maxed at gen: 729
+stopped at gen: 2187
+test
+191236702
+TRSAQVEOWICIYNEDAROGNILYC
+maxed at gen: 5063
+stopped at gen: 15189
+Helloos, world!
+Helloos, world!
+Helloos, world!
+Helloos, world!
+test
+183358657
+TROAQHESWICOYNEDAROANILQQ
+maxed at gen: 557
+stopped at gen: 1671
+test
+170257751
+TRSAQHEOWICOYNEDAROQNILQQ
+maxed at gen: 475
+stopped at gen: 1425
+test
+185347314
+TORAQHESWICINEYDAROQNILQQ
+maxed at gen: 507
+stopped at gen: 1521
+test
+170257751
+TRSAQHEOWICOYNEDAROQNILQF
+maxed at gen: 425
+stopped at gen: 1275
+test
+173145242
+TRSAQHEWOICINYSDAROQNILEQ
+maxed at gen: 471
+stopped at gen: 1413
+test
+171635539
+TRSAQHEOWICOYNENAROQDILQQ
+maxed at gen: 465
+stopped at gen: 1395
+test
+180866080
+TRSAQHEIWICOYNENAROQDILCQ
+maxed at gen: 473
+stopped at gen: 1419
+test
+174473173
+TRSAQHEONICIRWEDAYOQNILQQ
+maxed at gen: 401
+stopped at gen: 1203
+test
+173547866
+TROAQHESWICINEYDAROQNILQQ
+maxed at gen: 489
+stopped at gen: 1467
+test
+173823995
+TROAQHESWICYINEDAROQNILYQ
+maxed at gen: 453
+stopped at gen: 1359
+test
+173823995
+TROAQHESWICYINEDAROQNILYQ
+maxed at gen: 493
+stopped at gen: 1479
+test
+171635539
+TRSAQHEOWICIYNENARAQDILOQ
+maxed at gen: 402
+stopped at gen: 1206
+test
+171635539
+TRSAQHEOWICOYNENAROQDILQQ
+maxed at gen: 401
+stopped at gen: 1203
+test
+175092366
+TRSAQHEIWICOYNENAROQDILQQ
+maxed at gen: 449
+stopped at gen: 1347
+test
+170257751
+TRSAQHEOWICOYNEDAROQNILQQ
+maxed at gen: 451
+stopped at gen: 1353
+test
+179329622
+TRSAQREIWICOYNENAROQDILQQ
+maxed at gen: 481
+stopped at gen: 1443
+test
+182924298
+TRSAQHEOWICOYNENAROGDILQQ
+maxed at gen: 465
+stopped at gen: 1395
+test
+176769765
+TRSAQHEOWICMYNEDAROQNILQI
+maxed at gen: 401
+stopped at gen: 1203
+test
+178030246
+TRSAKHEIWECOYNINAROQDILQQ
+maxed at gen: 402
+stopped at gen: 1206
+test
+181546510
+TRSAQHEOWICOYNEDAROGNILQQ
+maxed at gen: 451
+stopped at gen: 1353
+test
+174473173
+TRSAQHEONICIRWEDAYOQNILQQ
+maxed at gen: 401
+stopped at gen: 1203
+test
+175092366
+TRSAQHEIWICOYNENAROQDILLQ
+maxed at gen: 427
+stopped at gen: 1281
+test
+170257751
+TRSAQHEOWICOYNEDAROQNILQQ
+maxed at gen: 477
+stopped at gen: 1431
+test
+174473173
+RTSAQHEONICIRWEDAYOQNILQQ
+maxed at gen: 402
+stopped at gen: 1206
+test
+177409253
+TRSAQHEOWICOYNEDAROANILQQ
+maxed at gen: 497
+stopped at gen: 1491
+test
+175092366
+TRSAQHEIWICOYNENAROQDILQQ
+maxed at gen: 402
+stopped at gen: 1206
+test
+170257751
+TRSAQHEOWICIYNENAROQDILCQ
+maxed at gen: 401
+stopped at gen: 1203
+test
+169141794
+TORAQHESWICIYNEDAROQNILQQ
+maxed at gen: 401
+stopped at gen: 1203
+test
+175092366
+TRSAQHEIWICOYNENAROQDILOQ
+maxed at gen: 471
+stopped at gen: 1413
+test
+175092366
+TRSAIHEIWQCOYNENAROQDILQQ
+maxed at gen: 477
+stopped at gen: 1431
+test
+170257751
+TRSAQHEOWICOYNEDAROQNILQQ
+maxed at gen: 453
+stopped at gen: 1359
+test
+169141794
+TORAQHESWICIYNEDAROQNILQQ
+maxed at gen: 403
+stopped at gen: 1209
+test
+177409253
+TOSAQHERWICIYNEDAROANILQC
+maxed at gen: 499
+stopped at gen: 1497
+test
+175092366
+TRSAIHEIWECOYNQNAROQDILQQ
+maxed at gen: 467
+stopped at gen: 1401
+test
+170584651
+TROAKHESWICYINEDAROQNILQQ
+maxed at gen: 505
+stopped at gen: 1515
+test
+169141794
+TORAQHESWICIYNEDAROQNILQQ
+maxed at gen: 401
+stopped at gen: 1203

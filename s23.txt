@@ -1,0 +1,146 @@
+Hello 2 da world!
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 458
+stopped at gen: 1374
+test
+245356390
+DASTGVINEJLOROWNACSYTMIHT
+maxed at gen: 398
+stopped at gen: 1194
+test
+244082750
+DNLWDMAOIAICRNSHUOEGTYWTJ
+maxed at gen: 302
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 234
+stopped at gen: 1000
+test
+244082750
+DNLWDMAOIAICRNSHUOEGTYWTJ
+maxed at gen: 380
+stopped at gen: 1000
+test
+251026240
+DASGTVINEJLOROWNACSYDMIHT
+maxed at gen: 832
+stopped at gen: 2496
+test
+244082750
+DASGRWINETLOROWNACYUDMIHT
+maxed at gen: 323
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 258
+stopped at gen: 1000
+test
+245933241
+DASGTVINEJLOROWNACSYTMIHT
+maxed at gen: 306
+stopped at gen: 1000
+test
+251026240
+DASGTVINEJLOROWNACSYDMIHT
+maxed at gen: 540
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 207
+stopped at gen: 1000
+test
+244324102
+DASGTWINETLOROWNACIYDMIHV
+maxed at gen: 854
+stopped at gen: 2562
+test
+244324102
+DASGJWINETLOROWDAIVYNMCHT
+maxed at gen: 640
+stopped at gen: 1000
+test
+244324102
+DASGJWINETLOROWDAIVYNMCHT
+maxed at gen: 611
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 224
+stopped at gen: 1000
+test
+251026240
+DASGTVINEJLOROWNACSYDMIHT
+maxed at gen: 682
+stopped at gen: 1000
+test
+244324102
+NDLWDMAOIACIRNSHVOEGTYWTJ
+maxed at gen: 893
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 399
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 94
+stopped at gen: 1000
+test
+244082750
+DASGBWINETLOROWNACUYDMIHT
+maxed at gen: 382
+stopped at gen: 1000
+test
+245933241
+DASGTVINEJLOROWNACSYTMIHT
+maxed at gen: 424
+stopped at gen: 1000
+test
+244082750
+DNLWDMAOIAICRNSHUOEGTYWTJ
+maxed at gen: 350
+stopped at gen: 1000
+test
+244324102
+WASGJDINETLOROWDAIVYNMCHT
+maxed at gen: 998
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 268
+stopped at gen: 1000
+test
+251026240
+DNLVDMAOIAICRNSHSOEGTYWJT
+maxed at gen: 496
+stopped at gen: 1000
+test
+244082750
+DASGTWINETLOROWNACUYDMIHT
+maxed at gen: 180
+stopped at gen: 1000
+test
+244082750
+DNLWDMAOIAICRNSHUOEGTYWTJ
+maxed at gen: 78
+stopped at gen: 1000
+test
+244082750
+DASGJWINETLOROWNACUYDMIHT
+maxed at gen: 236
+stopped at gen: 1000
+test
+245933241
+DASGTVINEJLOROWNACSYTMIHT
+maxed at gen: 751
+stopped at gen: 1000

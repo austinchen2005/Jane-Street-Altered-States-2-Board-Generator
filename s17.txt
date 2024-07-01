@@ -1,0 +1,62 @@
+Helloos, world!
+test
+234887521
+WYSETJEORHMLNAIAOISWCDRGU
+maxed at gen: 13366
+stopped at gen: 40098
+test
+238199841
+DRGUTAIOCHSNLASERORBWYWET
+maxed at gen: 2468
+stopped at gen: 7404
+test
+247877825
+WEROAYSNGMIOAIVURLCSETFON
+maxed at gen: 11403
+stopped at gen: 34209
+Helloos, world!
+test
+241254862
+MDRGMAOIANRNLSCEYOEIJWRTM
+maxed at gen: 20287
+stopped at gen: 60861
+test
+255516310
+TESIMUHCAUMOLORYRNIGWESAD
+maxed at gen: 30180
+stopped at gen: 90540
+test
+235120144
+EUIYWTROSECALNRSNIOADGRDM
+maxed at gen: 1504
+stopped at gen: 4512
+test
+245214215
+MNCIMSADKRRILOTGONEYMARWJ
+maxed at gen: 45018
+stopped at gen: 135054
+test
+235120144
+MDRGDAOINCRNLASESORTWYIUE
+maxed at gen: 6225
+stopped at gen: 18675
+test
+242771210
+MNCHEGADTKRILAOSONSYCNREW
+maxed at gen: 1836
+stopped at gen: 5508
+test
+247503921
+DNCIMGASRURILOTDONEYMARJW
+maxed at gen: 11509
+stopped at gen: 34527
+test
+239567572
+TUHJWEROYECSLNRNAIOABGRDM
+maxed at gen: 3636
+stopped at gen: 10908
+test
+241254862
+MTRJWEIOYECSLNRNAIOABGRDM
+maxed at gen: 10450
+stopped at gen: 31350
